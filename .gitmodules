@@ -1,0 +1,3 @@
+[submodule "giChild"]
+	path = giChild
+	url = https://github.com/hydthemoon/giChild.git
